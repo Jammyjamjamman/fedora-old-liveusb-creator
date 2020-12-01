@@ -1,0 +1,5 @@
+*.pyc
+*.kate-swp
+*kdev4*
+dist
+MANIFEST
