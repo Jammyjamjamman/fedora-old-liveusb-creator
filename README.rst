@@ -11,12 +11,12 @@ flash drives.
 Install
 -------
 
-`python -m pip install git+https://github.com/Jammyjamjamman/fedora-old-liveusb-creator.git`
+    python -m pip install git+https://github.com/Jammyjamjamman/fedora-old-liveusb-creator.git
 
 Using
 -----
 
-`sudo liveusb-creator`
+    sudo liveusb-creator
 
 See the wiki for instructions on how to use the liveusb-creator:
 
