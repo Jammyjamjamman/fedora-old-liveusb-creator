@@ -1,9 +1,9 @@
 ===============
-liveusb-creator
+Unofficial liveusb-creator
 ===============
 
 This is Fedora's old liveusb creator, upgraded for python 3. It has the benefit over the old one that you can write to a partition without wiping a USB.
-
+I have no affiliation with the Fedora project and this is NOT the official fedora live usb creator. the official fedora one can be found here: https://github.com/FedoraQt/MediaWriter
 
 A cross-platform tool for easily installing live operating systems on to USB
 flash drives.
